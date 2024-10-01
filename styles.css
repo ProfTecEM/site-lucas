@@ -1,0 +1,28 @@
+body{
+    background: green;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button{
+    background: red;
+    color: white;
+    font-family: "Roboto", sans-serif; 
+}
+.passo.ativo{
+    display: block;
+}
+.passo{
+    display: none;
+}
+main{
+    max-width: 90%;
+    text-align: center;
+}
+img{
+    max-width: 90%;
+}
